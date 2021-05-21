@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple Jnse  Website',
+        'name' => 'Simple Jonse  Website',
         'site_url' => '',
         'pretty_uri' => false,
         'nav_menu' => [
